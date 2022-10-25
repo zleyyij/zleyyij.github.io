@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Writing a usable shell in Rust"
@@ -10,7 +9,7 @@ I set out on project Ash for a a variety of small reasons:
 - I wanted to get better at writing scaleable code
 
 ## The Beginnings
-I happened upon [this](https://brennan.io/2015/01/16/write-a-shell-in-c/) article about writing a shell in C, and was fascinated by the style in which it was written. It was extremely approachable, with function calls defined first, and the actual contents of the function explaind later. Then it goes on to explain what each function does and why it's there, without relying too heavily on language specific semantics. This made it a great stepping stone, even though it's intended for the C programming language, it's easily adapted to Rust.
+I happened upon [this](https://brennan.io/2015/01/16/write-a-shell-in-c/) article about writing a shell in C, and was fascinated by the style in which it was written. It was extremely approachable, with function calls defined first, and the actual contents of the function explained later. Then it goes on to explain what each function does and why it's there, without relying too heavily on language specific semantics. This made it a great stepping stone, even though it's intended for the C programming language, it's easily adapted to Rust.
 
 I started by writing a very basic framework to obtain user input as a string. As of right now, it's not an entire I/O lock, and so features like tab autocomplete or capturing Ctrl + C to stop the program from being exited are not currently functional. It functions as a loop that:
 - Captures user input
