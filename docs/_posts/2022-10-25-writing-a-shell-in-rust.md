@@ -1,3 +1,8 @@
+layout: post
+title: "Writing a usable shell in Rust"
+date: 2022-10-22
+
+
 I set out on project Ash for a a variety of small reasons: 
 - I wanted to better learn how a shell interacts with an operating system, how it calls different commands 
 - I wanted to get better at writing scaleable code
