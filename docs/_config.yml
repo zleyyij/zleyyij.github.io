@@ -28,7 +28,7 @@ twitter_username:
 github_username:  zleyyij
 
 # Build settings
-theme: dark-poole
+theme: minima
 plugins:
   - jekyll-feed
 
