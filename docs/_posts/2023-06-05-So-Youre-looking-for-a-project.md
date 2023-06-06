@@ -1,3 +1,9 @@
+---
+layout: post
+title: "So You're Looking For A Project (or something to do)"
+date: 2023-06-05
+---
+
 This post mostly serves as a collection of extremely useful resources that I find convenient to group together
 
 # Homelabbing
