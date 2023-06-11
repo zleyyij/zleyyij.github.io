@@ -18,6 +18,9 @@ I specifically enjoyed reading through [this](https://os.phil-opp.com/) series e
 
 <https://github.com/codecrafters-io/build-your-own-x>
 
+<https://codingchallenges.substack.com/>
+
+
 # Learning 
 These are all various blogs/series that I enjoyed (not fully inclusive) and found very informative:
 - ($TAG, $OTHERTAG) - $NAME: $LINK
