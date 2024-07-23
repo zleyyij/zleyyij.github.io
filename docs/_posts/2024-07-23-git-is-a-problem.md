@@ -4,6 +4,9 @@ title: "The Git Ecosystem Might Become a Problem."
 date:  2024-07-23
 ---
 
+# Preface
+The below article isn't very well organized, and presents a lot of issues in a dramatic way. Take it as a brief history of Git, and a PSA to be wary about buy in.
+
 # Introduction
 Version control is an integral part of the software development ecosystem. For developers to effectively collaborate, it needs to "stay out of the way". Time spent struggling with version control is time that's not spent writing code, thinking about code, or adding value to your project in any way. The *first* forms of version control were extremely rudimentary, and even when they did exist, many people didn't use them, and when they did, it involved a lot of added work. Some just preferred the shouting kind of version control:
 
